@@ -1,7 +1,0 @@
-gradio
-transformers
-torch
-black
-autopep8
-reportlab
-requests
